@@ -2,9 +2,9 @@
   "name": "estmara",
   "version": "0.0.1",
   "description": "Schema based UI agnostic form generator for Vue.js powered by vee-validate",
-  "module": "dist/vee-form.esm.js",
-  "unpkg": "dist/vee-form.js",
-  "main": "dist/vee-form.js",
+  "module": "dist/estmara.esm.js",
+  "unpkg": "dist/estmara.js",
+  "main": "dist/estmara.js",
   "scripts": {
     "docs:dev": "vuepress dev docs",
     "docs:build": "vuepress build docs",
@@ -88,6 +88,6 @@
     ]
   },
   "peerDependencies": {
-    "vee-validate": ">=2.2"
+    "vee-validate": ">=3.0"
   }
 }
