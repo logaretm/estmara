@@ -1,7 +1,7 @@
 {
-  "name": "vee-form",
+  "name": "estmara",
   "version": "0.0.1",
-  "description": "Form generator with VeeValidate Validation",
+  "description": "Schema based UI agnostic form generator for Vue.js powered by vee-validate",
   "module": "dist/vee-form.esm.js",
   "unpkg": "dist/vee-form.js",
   "main": "dist/vee-form.js",

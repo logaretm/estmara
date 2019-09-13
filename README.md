@@ -1,20 +1,10 @@
-# zee platform
+# estmara
 
-## APIs
+> est-ma-ra is the Arabic word for "form".
 
-- [x] Geolocation.
-- [x] Battery.
-- [x] Network.
-- [x] ContextMenu.
-- [x] Clipboard.
-- [ ] getUserMedia.
-- [ ] getVRDisplays.
-- [ ] media capabilities.
-- [ ] maxTouchPoints.
-- [ ] deviceMemory.
-- [ ] Notification API.
-- [ ] Share API.
-- [x] Fullscreen API.
+This is a WIP Vue.js form generator powered by vee-validate.
+
+This generator aims to be UI agnostic.
 
 ## License
 
